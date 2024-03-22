@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Pockemon-kingdom/static/css/main.ccd528d9.chunk.css",
+    "main.js": "/Pockemon-kingdom/static/js/main.256ad0b5.chunk.js",
+    "main.js.map": "/Pockemon-kingdom/static/js/main.256ad0b5.chunk.js.map",
+    "runtime-main.js": "/Pockemon-kingdom/static/js/runtime-main.6c9a767f.js",
+    "runtime-main.js.map": "/Pockemon-kingdom/static/js/runtime-main.6c9a767f.js.map",
+    "static/js/2.18a0789f.chunk.js": "/Pockemon-kingdom/static/js/2.18a0789f.chunk.js",
+    "static/js/2.18a0789f.chunk.js.map": "/Pockemon-kingdom/static/js/2.18a0789f.chunk.js.map",
+    "index.html": "/Pockemon-kingdom/index.html",
+    "static/css/main.ccd528d9.chunk.css.map": "/Pockemon-kingdom/static/css/main.ccd528d9.chunk.css.map",
+    "static/js/2.18a0789f.chunk.js.LICENSE.txt": "/Pockemon-kingdom/static/js/2.18a0789f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c9a767f.js",
+    "static/js/2.18a0789f.chunk.js",
+    "static/css/main.ccd528d9.chunk.css",
+    "static/js/main.256ad0b5.chunk.js"
+  ]
+}
